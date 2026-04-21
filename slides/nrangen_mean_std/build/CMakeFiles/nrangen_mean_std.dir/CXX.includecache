@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/davide/slides/nrangen_mean_std/main.cpp
+algorithm
+-
+cmath
+-
+iostream
+-
+numeric
+-
+random
+-
+vector
+-
+nrangen_mean_std.hpp
+/home/davide/slides/nrangen_mean_std/nrangen_mean_std.hpp
+
+/home/davide/slides/nrangen_mean_std/nrangen_mean_std.cpp
+nrangen_mean_std.hpp
+/home/davide/slides/nrangen_mean_std/nrangen_mean_std.hpp
+algorithm
+-
+cmath
+-
+iostream
+-
+numeric
+-
+random
+-
+vector
+-
+
+/home/davide/slides/nrangen_mean_std/nrangen_mean_std.hpp
+vector
+-
+

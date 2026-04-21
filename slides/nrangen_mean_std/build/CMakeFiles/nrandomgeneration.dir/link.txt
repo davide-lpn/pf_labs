@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra   CMakeFiles/nrandomgeneration.dir/main.cpp.o CMakeFiles/nrandomgeneration.dir/nrangen_mean_std.cpp.o  -o nrandomgeneration 

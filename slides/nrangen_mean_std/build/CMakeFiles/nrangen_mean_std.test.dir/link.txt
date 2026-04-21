@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra   CMakeFiles/nrangen_mean_std.test.dir/nrangen_mean_std.test.cpp.o CMakeFiles/nrangen_mean_std.test.dir/nrangen_mean_std.cpp.o  -o nrangen_mean_std.test 
